@@ -1,0 +1,2 @@
+TEST lw 1 2 TEST
+TEST lw 2 1 TEST
